@@ -1,8 +1,8 @@
-require './lib/cart.rb'
-require './lib/input.rb'
-require './lib/item.rb'
-require './lib/calculation.rb'
-require './lib/receipt.rb'
+require './app/models/cart.rb'
+require './app/helpers/input.rb'
+require './app/models/item.rb'
+require './app/controllers/calculation.rb'
+require './app/models/receipt.rb'
 
 file_name = ARGV[0]
 total_price = 0

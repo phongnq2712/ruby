@@ -1,6 +1,6 @@
-require './lib/cart.rb'
-require './lib/item.rb'
-require './lib/calculation.rb'
+require './app/models/cart.rb'
+require './app/models/item.rb'
+require './app/controllers/calculation.rb'
 
 # test class Calculation.rb
 class CalculationTest

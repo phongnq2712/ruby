@@ -1,4 +1,4 @@
-require './lib/constants'
+require './app/models/constants'
 require 'yaml'
 
 class Item

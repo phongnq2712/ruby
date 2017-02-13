@@ -1,5 +1,5 @@
-require './lib/cart.rb'
-require './lib/item.rb'
+require './app/models/cart.rb'
+require './app/models/item.rb'
 
 # test class Cart.rb
 class CartTest

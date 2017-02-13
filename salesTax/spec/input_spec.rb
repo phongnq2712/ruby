@@ -1,4 +1,4 @@
-require './lib/input.rb'
+require './app/helpers/input.rb'
 
 # test module Input
 class InputTest
